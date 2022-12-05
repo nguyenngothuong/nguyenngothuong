@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nguyenngothuong
-- 👀 I’m interested in programming and economics
+- 👀 I’m interested in data and ecommerce
 - 🌱 I’m currently studying at Danang University of Economics
 - 📫 You can contact me by email: nguyenthuongtb12@gmail.com
 
